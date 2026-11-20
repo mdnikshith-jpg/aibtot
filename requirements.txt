@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+sqlalchemy
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
+requests
+aiofiles
+authlib
+groq
+ddgs
+pypdf
+PyMuPDF
+Pillow
+cloudinary
+psycopg2-binary
